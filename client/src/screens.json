@@ -1,5 +1,13 @@
 {
   "id": "__BASE__",
   "name": "EmptyAug06",
-  "screens": []
+  "screens": [
+    {
+      "id": "blank",
+      "name": "Blank",
+      "sourceScreenId": "blank",
+      "sourceAppId": "default"
+    }
+  ],
+  "startScreen": "blank"
 }
