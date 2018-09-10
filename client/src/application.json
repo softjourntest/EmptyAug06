@@ -3,7 +3,17 @@
   "description": "",
   "defaultLayout": "PhonePortrait",
   "previewToken": "42b84a9f",
-  "clientVersion": "6.0.23",
+  "clientVersion": "6.0.24-dev",
   "theme": "Anchor",
-  "creatorId": "admin"
+  "creatorId": "admin",
+  "id": "EmptyAug06",
+  "isBuiltInTemplate": false,
+  "screensCount": 1,
+  "isVersioned": true,
+  "pathToRepo": "/usr/share/powwowstudio/users/admin/EmptyAug06",
+  "gitUrl": "https://github.com/softjourntest/EmptyAug06.git",
+  "gitUsername": "softjourntest",
+  "githubRepo": "https://github.com/softjourntest/EmptyAug06",
+  "creatorName": "PowWow Admin",
+  "explorations": []
 }
